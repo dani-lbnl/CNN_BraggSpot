@@ -1,4 +1,4 @@
-# fv5080
+# CNN Bragg spots
 Code related to Journal of Synchrotron Radiation paper FV5080
 Tsung-Wei Ke, Aaron S. Brewster, Stella X. Yu, Daniela Ushizima, Chao Yang, and Nicholas Sauter (2018)
 A Convolutional Neural Network-Based Screening Tool for X-ray Serial Crystallography
