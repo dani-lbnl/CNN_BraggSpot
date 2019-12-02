@@ -1,8 +1,8 @@
 # CNN Bragg spots
 Code related to Journal of Synchrotron Radiation paper FV5080
 Tsung-Wei Ke, Aaron S. Brewster, Stella X. Yu, Daniela Ushizima, Chao Yang, and Nicholas Sauter (2018)
-A Convolutional Neural Network-Based Screening Tool for X-ray Serial Crystallography
-under review.
+
+Published as "Ke, Brewster, Yu, Ushizima, Yang and Sauter, “Convolutional Neural Network-based Screening Tool for X-ray Crystallography”, Journal of Synchrotron Radiation 2018.
 
 Explanation:
 Raw data (five datasets) may be downloaded from the Coherent X-ray Imaging Data Bank at the following URL:
